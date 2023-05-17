@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JCameraView.iml" filepath="$PROJECT_DIR$/.idea/JCameraView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JCameraView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JCameraView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JCameraView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JCameraView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JCameraView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JCameraView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/JCameraView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/JCameraView.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/JCameraView.camera.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/JCameraView.camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/JCameraView.camera.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/JCameraView.camera.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/JCameraView.camera.main.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/JCameraView.camera.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camera/JCameraView.camera.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/camera/JCameraView.camera.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraapplication/JCameraView.cameraapplication.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraapplication/JCameraView.cameraapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraapplication/JCameraView.cameraapplication.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraapplication/JCameraView.cameraapplication.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraapplication/JCameraView.cameraapplication.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraapplication/JCameraView.cameraapplication.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cameraapplication/JCameraView.cameraapplication.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/cameraapplication/JCameraView.cameraapplication.unitTest.iml" />
+    </modules>
+  </component>
+</project>
